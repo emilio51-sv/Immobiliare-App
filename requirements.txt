@@ -6,3 +6,4 @@ requests
 matplotlib
 pandas
 plotly
+pysqlite3_binary
